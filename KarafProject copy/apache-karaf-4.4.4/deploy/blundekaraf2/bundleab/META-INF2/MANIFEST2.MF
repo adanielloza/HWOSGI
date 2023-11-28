@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: mybundleab
+Bundle-SymbolicName: com.example.mybundlea
+Bundle-Version: 4.4.4
+Bundle-Activator: com.example.bundlea.Activator2
